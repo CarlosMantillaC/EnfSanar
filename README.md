@@ -3,6 +3,7 @@
 **EnfSanar** es un prototipo de aplicación web diseñado para gestionar los procesos de citas y consultas médicas en la clínica de heridas **EnfSanar**, ubicada en la ciudad de Cúcuta. Este sistema permite a recepcionistas y enfermeras manejar de manera eficiente los datos relacionados con pacientes, citas y procedimientos médicos.
 
 Video Expositivo:
+
 https://drive.google.com/file/d/1IrNE0xQXfIDH-bQfaVMrQlwmj6jS9SiK/view?usp=drive_link
 ---
 
